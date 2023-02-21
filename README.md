@@ -1,2 +1,2 @@
 # hardhat-boilerplate
- Hardhat boilerpalte according to my necessities 
+a new Hardhat boilerpalte according to my common necessities.
